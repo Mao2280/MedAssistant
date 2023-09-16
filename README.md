@@ -1,6 +1,6 @@
 ![norm](https://github.com/Mao2280/MedAssistent/assets/144929630/2f8b0eb0-b155-46b9-b007-871b3979eae6)
 
-# MedAssistent
+# MedAssistant
 
 # Key Features and Functions:
 1. Online consultations with doctors: Patients can receive qualified expert consultation via video or chat by contacting doctors of different specialties. This is especially useful for people in remote areas or with limited access to government agencies.
