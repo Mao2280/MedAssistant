@@ -1,5 +1,5 @@
 <picture>
-<img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="![image](https://github.com/Mao2280/MedAssistent/assets/144929630/2f8b0eb0-b155-46b9-b007-871b3979eae6)
+<img src="![image](https://github.com/Mao2280/MedAssistent/assets/144929630/2f8b0eb0-b155-46b9-b007-871b3979eae6)
 "> </picture>
 
 
